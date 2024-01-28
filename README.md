@@ -1,2 +1,2 @@
 # data
-data_leggo
+data_analyst_leggo
